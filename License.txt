@@ -1,0 +1,27 @@
+👨‍💻 Author
+K.W.C. Induwara
+
+Student ID: TF60885
+
+Unit 21: Emerging Technologies
+
+Pearson BTEC Level 5 HND in Digital Technologies
+
+🙏 Acknowledgments
+Pearson BTEC - Unit 21: Emerging Technologies
+
+Knock to Smart (Pvt) Ltd
+
+Gradio Team for the amazing framework
+
+Sentence Transformers for the NLP model
+
+📞 Contact
+For any inquiries, please contact: 
+
+Email: chathu123idu@gmail.com
+
+GitHub: https://github.com/Kratoz-ci
+
+⭐ Star the Repository
+If you find this project useful, please give it a star ⭐ on GitHub!
